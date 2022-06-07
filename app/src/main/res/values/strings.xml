@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_location_permission">Request for Location Access</string>
+    <string name="text_location_permission">To display weather in this application, it is a must for us to include your location.</string>
+</resources>
